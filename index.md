@@ -2,7 +2,7 @@
 layout: page
 title:  FLARE  
 description: FLARE 2021
-background: './rotate_logo.x15.jpeg'
+background: '/rotate_logo.x15.jpeg'
 ---
 
 ## Join us for the fourth edition of the Virtual OTML Workshop @ NeurIPS!
