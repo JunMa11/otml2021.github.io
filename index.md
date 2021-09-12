@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  FLARE  
-description: NeurIPS 2021 Workshop - 13 or 14 December 2021
-background: 'rotate_logo.x15.jpeg'
+description: FLARE 2021
+background: './rotate_logo.x15.jpeg'
 ---
 
 ## Join us for the fourth edition of the Virtual OTML Workshop @ NeurIPS!
